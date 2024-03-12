@@ -13,7 +13,7 @@
     "react-dom": "^18.0.0",
     "react-router-dom": "5.3.4",
     "strapi-plugin-react-editorjs": "^2.0.2",
-    "strapi-plugin-redirects": "0.0.6",
+    "strapi-plugin-redirects-v2": "^0.0.8",
     "styled-components": "5.3.3"
   },
   "name": "my-app-name",
@@ -26,7 +26,6 @@
     "build": "strapi build",
     "strapi": "strapi"
   },
-  "devDependencies": {},
   "author": {
     "name": "A Strapi developer"
   },
