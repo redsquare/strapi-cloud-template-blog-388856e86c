@@ -12,8 +12,7 @@
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-router-dom": "5.3.4",
-    "strapi-plugin-react-editorjs": "^2.0.2",
-    "strapi-plugin-redirects-v2": "^0.0.8",
+    "strapi-plugin-redirects-v2": "^0.0.9",
     "styled-components": "5.3.3"
   },
   "name": "my-app-name",
