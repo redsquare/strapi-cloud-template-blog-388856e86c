@@ -1,7 +1,5 @@
 module.exports = ({ env }) => ({
-  plugins: [
-    (redirects: {
-      enabled: true,
-    }),
-  ],
+  redirects: {
+    enabled: true,
+  },
 });
